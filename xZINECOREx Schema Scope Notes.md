@@ -12,13 +12,13 @@ human-readable way.*
 	**Alternative Title(s)**
 		Secondary titles or subtitles
 
-    - **Title**
-        - Title of zine - required field
-      
-    - **Creator(s)**
-        - Creator of zine - this will refer to an actual person or institution
-            - required field
-       
+	**Title**
+  	Title of zine - required field
+
+	**Creator(s)**
+  	Creator of zine - this will refer to an actual person or institution
+  	*required field*
+
     - **Subjects(s)**
         - name/topic of material - will have controlled vocabulary?
 
@@ -61,12 +61,10 @@ human-readable way.*
         - Internal ID - URI or ID number associated with individual
             institutions
 
-    - **Source**
+	**Source**
 
-    - **Language**
+	**Language**
 
-    - **Relation** (see also)
-    
-    - **Coverage** (place of publication)
-    
-    - **Rights** (freedoms and restrictions)
+	**Relation** (see also)
+	**Coverage** (place of publication)
+	**Rights** (freedoms and restrictions)
