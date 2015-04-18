@@ -7,8 +7,8 @@ human-readable way.*
 
 **ZineCore Label/Field**
 
-	*Alternative Title(s)*
-		Secondary titles or subtitles
+1. **Alternative Title(s)**
+   - Secondary titles or subtitles
 
 	**Title**
   	Title of zine - required field
