@@ -9,7 +9,7 @@ human-readable way.*
 
 **ZineCore Label/Field**
 
-	**Alternative Title(s)**
+	*Alternative Title(s)*
 		Secondary titles or subtitles
 
 	**Title**
