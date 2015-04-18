@@ -9,8 +9,8 @@ human-readable way.*
 
 **ZineCore Label/Field**
 
-    - **Alternative Title(s)**
-        - Secondary titles or subtitles
+	**Alternative Title(s)**
+		Secondary titles or subtitles
 
     - **Title**
         - Title of zine - required field
@@ -30,7 +30,7 @@ human-readable way.*
         - **Abstract** - Abstract is a brief summary of the contents of the
             zine.
         - **Table Of Contents** - Lists the contents of the zine
-      
+        
     - **Provenance**
         - Where the zine came from?
  
