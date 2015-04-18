@@ -5,8 +5,6 @@ xZINECOREx Schema Scope Notes
 *This scope notes document serves to define the schema fields in a
 human-readable way.*
 
- 
-
 **ZineCore Label/Field**
 
 	*Alternative Title(s)*
@@ -42,7 +40,6 @@ human-readable way.*
         - will refer to people (usually humans, felines and cephalopods but by
             no means is that exhaustive) other than the creator who contributed
             to the zine. May also include subjects of interviews, reviews, etc.
-        
     - **Date Created**
         - Human readable date. I.e. 1996 or April 4, 1968
 
