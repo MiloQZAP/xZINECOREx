@@ -14,7 +14,7 @@ human-readable way.*
   -  Title of zine - required field
 
 - **Creator(s)**
-  - Creator of zine - this will refer to an actual person or institution
+  - Creator of zine - *this will refer to an actual person or institution*
   	*required field*
 
 - **Subjects(s)**
