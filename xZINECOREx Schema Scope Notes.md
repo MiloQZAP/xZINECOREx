@@ -62,7 +62,7 @@ human-readable way.*
 
 - **Relation** *(see also)*
   - we can use the refinement: RELATION>>IS PART OF and call it COLLECTION
-  - we can use the refinement RLEATION>>IS PART OF and call it SERIES
+  - we can use the refinement RELEATION>>IS PART OF and call it SERIES
   - we can use the refinement RELATION>>HAS PART in many ways, 2 important elements might be: VOLUME and ISSUE
   - Most "See Also" references in databases are based on subjectality or aboutness.  This "See Also" functionality is built using a theasurus or standard vocabulary and coding on the backend of the database.
 Example of a zine controlled vocabulary: Anchor Archive Zine Thesaurus: http://www.robertsstreet.org/thesaurus/out.htm 
