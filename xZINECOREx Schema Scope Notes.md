@@ -56,5 +56,11 @@ human-readable way.*
 - **Relation** *(see also)*
 
 - **Coverage** *(place of publication)*
+  - refinement COVERAGE>>LOCATION to be where something was published
+  - when a zine is about a place, that is a subject heading (of some sort
+  - when a zine is about traveling to a place, then it should have "travel zine" as a genre term
 
 - **Rights** *(freedoms and restrictions)*
+  - Comes from the creator or item.
+  - Can include Copyright ©, but also copyleft, anti-copyright, freely duplicatable, Creative Commons or other license.
+  - Not required
