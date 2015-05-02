@@ -18,8 +18,8 @@ Class,Property,ZineCore Label/Field,Dublin Core Field Mapping,Data type,Associat
 ,http://purl.org/dc/terms/medium,Format: Medium,Medium,literal,n/a,,Use local terms?
 ,http://purl.org/dc/terms/extent,Format: Number of pages,Extent,literal,n/a,,Extent: number of pages? Added to schema 04-18-15
 ,http://purl.org/dc/terms/identifier,Identifier(s),identifier,,n/a,,
-,,Source,Source,,n/a,,
-,,Language,Language,,marc language codes,,
-,,Relation (see also),Relation,,n/a,,
+,http://purl.org/dc/terms/source,Source,Source,literal,n/a,{0..n},
+,http://purl.org/dc/terms/language,Language,Language,literal or URI,ISO 639-1,{1},Changed from MARC to ISO 639-1
+,http://purl.org/dc/terms/relation,Relation (see also),Relation,literal,"LCSH, Anchor Archive Subject Thesaurus, Zincore Title list?",{0..n},
 ,http://purl.org/dc/terms/coverage,Coverage (place of publication),Coverage,literal or URI,"LCSH, NAF for geographic names",,"Human readable (City, State, Country) or Lat./Long. ?"
 ,http://purl.org/dc/terms/rights,Rights (freedoms and restrictions),Rights,literal,n/a,{0..n},"scope note to include copyright, copyleft, anti-copyright, creative commons, etc."

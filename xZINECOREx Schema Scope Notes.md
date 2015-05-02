@@ -26,7 +26,9 @@ human-readable way.*
   - **Table Of Contents** - Lists the contents of the zine
         
 - **Provenance**
-  - Where the zine came from?
+  - Where the zine came from. Example: Donated by the creator OR was part of *n* collection OR 'Purchased at Quimby's'
+  - Shows path of how zine came to your collection.
+  - May or may not be used in the zine union catalog.
 
 - **Publisher(s)**
   - not required but when used will be associated with a controlled vocabulary
@@ -50,14 +52,25 @@ human-readable way.*
   - Internal ID - URI or ID number associated with individual institutions
 
 - **Source**
+  - A related resource from which the described resource is derived. Example: A digitized copy of a zine is sourced from the original printed version.
+  - This will be individualized to your specific institution.
 
 - **Language**
+  - The language(s) that the zine was published in
+  - Has controlled vocabulary ISO 639-1. SEE http://www-01.sil.org/iso639-3/codes.asp
+    - Recognize that this is a robot-centric decision to conform to all the various pieces of code that use this
 
 - **Relation** *(see also)*
+  - we can use the refinement: RELATION>>IS PART OF and call it COLLECTION
+  - we can use the refinement RLEATION>>IS PART OF and call it SERIES
+  - we can use the refinement RELATION>>HAS PART in many ways, 2 important elements might be: VOLUME and ISSUE
+  - Most "See Also" references in databases are based on subjectality or aboutness.  This "See Also" functionality is built using a theasurus or standard vocabulary and coding on the backend of the database.
+Example of a zine controlled vocabulary: Anchor Archive Zine Thesaurus: http://www.robertsstreet.org/thesaurus/out.htm 
+You could easily build "See Also" references based on the relationships defined in this thesaurus.
 
 - **Coverage** *(place of publication)*
-  - refinement COVERAGE>>LOCATION to be where something was published
-  - when a zine is about a place, that is a subject heading (of some sort
+  - refinement COVERAGE>>LOCATION to be where something was published.
+  - when a zine is about a place, that is a subject heading (of some sort)
   - when a zine is about traveling to a place, then it should have "travel zine" as a genre term
 
 - **Rights** *(freedoms and restrictions)*
